@@ -27,3 +27,8 @@ delete ainsi que l'affichage apres:
 
 
 ![image](https://github.com/Reusayoub/Ebank_BackEnd/assets/118600985/be092f79-9943-4c0c-aa3a-0a2cc813579b)
+
+
+![image](https://github.com/Reusayoub/Ebank_BackEnd/assets/118600985/dd052b63-048e-4dbe-9ad0-b704cd36f578)
+
+![image](https://github.com/Reusayoub/Ebank_BackEnd/assets/118600985/2402b4ee-f3af-4316-a0c0-b8ab2c7ee784)
